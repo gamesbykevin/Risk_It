@@ -1,0 +1,138 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font_16: {
+		file: font_16.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	font_20: {
+		file: font_20.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	font_24: {
+		file: font_24.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	font_28: {
+		file: font_28.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	font_32: {
+		file: font_32.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	font_36: {
+		file: font_36.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+	font_44: {
+		file: font_44.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_254_189_11_255: {
+		r: 0.99607843
+		g: 0.7411765
+		b: 0.043137256
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	button_facebook: {
+		up: button__facebook
+	}
+	button_close: {
+		up: button_close
+	}
+	button_twitter: {
+		up: button_twitter
+	}
+	button_audio: {
+		up: button_music_off
+		checked: button_music_on
+	}
+	button_instagram: {
+		up: button_instagram
+	}
+	button_up: {
+		up: button_plus
+	}
+	button_down: {
+		up: button_minus
+	}
+	button_complete: {
+		up: turn_complete
+	}
+	button_speed: {
+		up: button_quick_disabled
+		checked: button_quick
+	}
+	button_youtube: {
+		up: button_youtube
+	}
+	button_vibrate: {
+		up: button_vibrate_off
+		checked: button_vibrate
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: {
+	progressBarBlue: {
+		background: load_bar_bg
+		knobBefore: load_bar_blue
+	}
+	progressBarGreen: {
+		background: load_bar_bg
+		knobBefore: load_bar_green
+	}
+	progressBarRed: {
+		background: load_bar_bg
+		knobBefore: load_bar_red
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	button_75: {
+		font: font_16
+		up: button_empty_green_75
+		down: button_empty_red_75
+		checked: button_empty_red_75
+	}
+	button_100: {
+		font: font_20
+		up: button_empty_green_100
+		down: button_empty_red_100
+		checked: button_empty_red_100
+	}
+	button_140: {
+		font: font_20
+		up: button_empty_green_140
+		down: button_empty_red_140
+		checked: button_empty_red_140
+	}
+	button_200: {
+		font: font_28
+		up: button_empty_green_200
+		down: button_empty_red_200
+		checked: button_empty_red_200
+	}
+	button_250: {
+		font: font_36
+		up: button_empty_green_250
+		down: button_empty_red_250
+		checked: button_empty_red_250
+	}
+}
+}

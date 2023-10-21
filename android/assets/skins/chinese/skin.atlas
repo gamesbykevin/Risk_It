@@ -1,0 +1,515 @@
+
+skin.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 958
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+load_bar_bg
+  rotate: false
+  xy: 1, 101
+  size: 1508, 98
+  orig: 1508, 98
+  offset: 0, 0
+  index: -1
+load_bar_blue
+  rotate: false
+  xy: 1, 1
+  size: 1508, 98
+  orig: 1508, 98
+  offset: 0, 0
+  index: -1
+table_horizontal_3
+  rotate: false
+  xy: 1, 201
+  size: 1652, 755
+  orig: 1652, 755
+  offset: 0, 0
+  index: -1
+
+skin2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+font_16
+  rotate: false
+  xy: 701, 28
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+font_20
+  rotate: false
+  xy: 1215, 28
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+language_arabic
+  rotate: false
+  xy: 985, 1100
+  size: 650, 90
+  orig: 650, 90
+  offset: 0, 0
+  index: -1
+language_chinese
+  rotate: false
+  xy: 1, 93
+  size: 679, 90
+  orig: 679, 90
+  offset: 0, 0
+  index: -1
+language_english
+  rotate: false
+  xy: 1, 185
+  size: 681, 90
+  orig: 681, 90
+  offset: 0, 0
+  index: -1
+language_french
+  rotate: false
+  xy: 985, 1192
+  size: 652, 87
+  orig: 652, 87
+  offset: 0, 0
+  index: -1
+language_german
+  rotate: false
+  xy: 1, 461
+  size: 698, 89
+  orig: 698, 89
+  offset: 0, 0
+  index: -1
+language_hindi
+  rotate: false
+  xy: 985, 1008
+  size: 609, 90
+  orig: 609, 90
+  offset: 0, 0
+  index: -1
+language_indonesian
+  rotate: false
+  xy: 1, 733
+  size: 799, 90
+  orig: 799, 90
+  offset: 0, 0
+  index: -1
+language_italian
+  rotate: false
+  xy: 1, 1
+  size: 664, 90
+  orig: 664, 90
+  offset: 0, 0
+  index: -1
+language_japanese
+  rotate: false
+  xy: 1, 645
+  size: 733, 86
+  orig: 733, 86
+  offset: 0, 0
+  index: -1
+language_korean
+  rotate: false
+  xy: 985, 1281
+  size: 660, 86
+  orig: 660, 86
+  offset: 0, 0
+  index: -1
+language_portuguese
+  rotate: false
+  xy: 1, 825
+  size: 800, 86
+  orig: 800, 86
+  offset: 0, 0
+  index: -1
+language_russian
+  rotate: false
+  xy: 1, 277
+  size: 689, 90
+  orig: 689, 90
+  offset: 0, 0
+  index: -1
+language_spanish
+  rotate: false
+  xy: 1, 369
+  size: 694, 90
+  orig: 694, 90
+  offset: 0, 0
+  index: -1
+language_urdu
+  rotate: false
+  xy: 985, 919
+  size: 585, 87
+  orig: 585, 87
+  offset: 0, 0
+  index: -1
+load_bar_green
+  rotate: false
+  xy: 1, 1880
+  size: 1508, 98
+  orig: 1508, 98
+  offset: 0, 0
+  index: -1
+load_bar_red
+  rotate: false
+  xy: 1, 1780
+  size: 1508, 98
+  orig: 1508, 98
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 985, 1369
+  size: 662, 179
+  orig: 662, 179
+  offset: 0, 0
+  index: -1
+table_down
+  rotate: false
+  xy: 1, 1550
+  size: 1419, 228
+  orig: 1419, 228
+  offset: 0, 0
+  index: -1
+table_horizontal_2
+  rotate: false
+  xy: 1, 913
+  size: 982, 635
+  orig: 982, 635
+  offset: 0, 0
+  index: -1
+table_horizontal_4
+  rotate: false
+  xy: 985, 542
+  size: 582, 375
+  orig: 582, 375
+  offset: 0, 0
+  index: -1
+website_70px_font
+  rotate: false
+  xy: 1, 552
+  size: 722, 91
+  orig: 722, 91
+  offset: 0, 0
+  index: -1
+
+skin3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+font_24
+  rotate: false
+  xy: 1, 1535
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+font_28
+  rotate: false
+  xy: 1, 1021
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+font_32
+  rotate: false
+  xy: 515, 1535
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+font_36
+  rotate: false
+  xy: 1, 507
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+font_44
+  rotate: false
+  xy: 515, 1021
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+button__facebook
+  rotate: false
+  xy: 1219, 1
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+button_close
+  rotate: false
+  xy: 1923, 1711
+  size: 91, 94
+  orig: 91, 94
+  offset: 0, 0
+  index: -1
+button_empty_green_100
+  rotate: false
+  xy: 515, 511
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+button_empty_green_140
+  rotate: false
+  xy: 1426, 1126
+  size: 140, 67
+  orig: 140, 67
+  offset: 0, 0
+  index: -1
+button_empty_green_200
+  rotate: false
+  xy: 1426, 1292
+  size: 200, 95
+  orig: 200, 95
+  offset: 0, 0
+  index: -1
+button_empty_green_250
+  rotate: false
+  xy: 1756, 1928
+  size: 250, 119
+  orig: 250, 119
+  offset: 0, 0
+  index: -1
+button_empty_green_75
+  rotate: false
+  xy: 1029, 1023
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+button_empty_red
+  rotate: false
+  xy: 1923, 1807
+  size: 120, 119
+  orig: 120, 119
+  offset: 0, 0
+  index: -1
+button_empty_red_100
+  rotate: false
+  xy: 1117, 51
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+button_empty_red_140
+  rotate: false
+  xy: 1426, 1057
+  size: 140, 67
+  orig: 140, 67
+  offset: 0, 0
+  index: -1
+button_empty_red_200
+  rotate: false
+  xy: 1426, 1195
+  size: 200, 95
+  orig: 200, 95
+  offset: 0, 0
+  index: -1
+button_empty_red_250
+  rotate: false
+  xy: 1426, 1858
+  size: 250, 119
+  orig: 250, 119
+  offset: 0, 0
+  index: -1
+button_empty_red_75
+  rotate: false
+  xy: 1628, 1216
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+button_instagram
+  rotate: false
+  xy: 1413, 1
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+button_minus
+  rotate: false
+  xy: 1662, 1398
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+button_music_off
+  rotate: false
+  xy: 1568, 1060
+  size: 123, 133
+  orig: 123, 133
+  offset: 0, 0
+  index: -1
+button_music_on
+  rotate: false
+  xy: 1628, 1254
+  size: 123, 133
+  orig: 123, 133
+  offset: 0, 0
+  index: -1
+button_plus
+  rotate: false
+  xy: 1678, 1941
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+button_quick
+  rotate: false
+  xy: 1673, 1723
+  size: 123, 133
+  orig: 123, 133
+  offset: 0, 0
+  index: -1
+button_quick_disabled
+  rotate: false
+  xy: 1673, 1588
+  size: 123, 133
+  orig: 123, 133
+  offset: 0, 0
+  index: -1
+button_twitter
+  rotate: false
+  xy: 1316, 1
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+button_vibrate
+  rotate: false
+  xy: 1798, 1793
+  size: 123, 133
+  orig: 123, 133
+  offset: 0, 0
+  index: -1
+button_vibrate_off
+  rotate: false
+  xy: 1798, 1658
+  size: 123, 133
+  orig: 123, 133
+  offset: 0, 0
+  index: -1
+button_youtube
+  rotate: false
+  xy: 1510, 1
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+dice_blue
+  rotate: false
+  xy: 1, 47
+  size: 395, 458
+  orig: 395, 458
+  offset: 0, 0
+  index: -1
+dice_dark_green
+  rotate: false
+  xy: 515, 561
+  size: 395, 458
+  orig: 395, 458
+  offset: 0, 0
+  index: -1
+dice_dark_purple
+  rotate: false
+  xy: 1029, 1521
+  size: 395, 458
+  orig: 395, 458
+  offset: 0, 0
+  index: -1
+dice_light_green
+  rotate: false
+  xy: 1029, 1061
+  size: 395, 458
+  orig: 395, 458
+  offset: 0, 0
+  index: -1
+dice_light_purple
+  rotate: false
+  xy: 398, 47
+  size: 395, 458
+  orig: 395, 458
+  offset: 0, 0
+  index: -1
+dice_orange
+  rotate: false
+  xy: 912, 561
+  size: 395, 458
+  orig: 395, 458
+  offset: 0, 0
+  index: -1
+dice_red
+  rotate: false
+  xy: 795, 101
+  size: 395, 458
+  orig: 395, 458
+  offset: 0, 0
+  index: -1
+dice_white
+  rotate: false
+  xy: 1426, 1571
+  size: 245, 285
+  orig: 245, 285
+  offset: 0, 0
+  index: -1
+dice_yellow
+  rotate: false
+  xy: 1192, 101
+  size: 395, 458
+  orig: 395, 458
+  offset: 0, 0
+  index: -1
+logo_250
+  rotate: false
+  xy: 1504, 1979
+  size: 250, 68
+  orig: 250, 68
+  offset: 0, 0
+  index: -1
+table_top
+  rotate: false
+  xy: 1426, 1480
+  size: 234, 89
+  orig: 234, 89
+  offset: 0, 0
+  index: -1
+table_top_highlighted
+  rotate: false
+  xy: 1426, 1389
+  size: 234, 89
+  orig: 234, 89
+  offset: 0, 0
+  index: -1
+turn_complete
+  rotate: false
+  xy: 1662, 1436
+  size: 123, 133
+  orig: 123, 133
+  offset: 0, 0
+  index: -1
+website_30px_font
+  rotate: false
+  xy: 795, 49
+  size: 320, 50
+  orig: 320, 50
+  offset: 0, 0
+  index: -1
+website_45px_font
+  rotate: false
+  xy: 1029, 1981
+  size: 473, 66
+  orig: 473, 66
+  offset: 0, 0
+  index: -1
